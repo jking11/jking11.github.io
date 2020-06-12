@@ -1,6 +1,3 @@
-jking11's GitHub Pages
-======================
-
 Welcome
 -------
 
