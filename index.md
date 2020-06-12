@@ -1,8 +1,7 @@
-GitHub Pages
-============
+jking11's GitHub Pages
+======================
 
-This is a test page
--------------------
+Welcome
+-------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum, quam sit amet sagittis accumsan, eros ipsum consectetur mi, ut scelerisque tellus quis orci. Suspendisse potenti. Etiam auctor mi vitae turpis suscipit lacinia. Duis ligula sapien, iaculis nec rutrum at, ultricies et quam. Integer pharetra nulla fermentum varius euismod. Nulla facilisi. Curabitur placerat vestibulum odio vitae rhoncus. Nullam dictum gravida viverra.
-
+You've probably arrived here by mistake!  The actual pages are stored in repository subfolders.  Be sure to put the name of the repository name as part of the URL you are typing.
